@@ -1,0 +1,208 @@
+Uri: https://cornerstone-warm-demo.mybigcommerce.com/?_ga=2.32803001.664503158.1509435585-395942096.1509435585
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\index-1.html
+Content Type: text/html
+
+Uri: https://cornerstone-warm-demo.mybigcommerce.com/compare
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\compare.html
+Content Type: text/html
+
+Uri: https://cornerstone-warm-demo.mybigcommerce.com/giftcertificates.php
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\giftcertificates.html
+Content Type: text/html
+
+Uri: https://cornerstone-warm-demo.mybigcommerce.com/login.php
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\login.html
+Content Type: text/html
+
+Uri: https://cornerstone-warm-demo.mybigcommerce.com/login.php?action=create_account
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\login-1.html
+Content Type: text/html
+
+Uri: https://cornerstone-warm-demo.mybigcommerce.com/cart.php
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\cart.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/all-coffee/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\all-coffee\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/countries/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\countries\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/countries/bolivia/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\countries\bolivia\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/countries/colombia/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\countries\colombia\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/countries/costa-rica/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\countries\costa-rica\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/ethiopia/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\ethiopia\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/countries/guatemala/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\countries\guatemala\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/honduras/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\honduras\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/countries/panama/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\countries\panama\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/types/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\types\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/types/decaf/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\types\decaf\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/types/espresso/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\types\espresso\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/types/filter/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\types\filter\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/about/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\about\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/contact/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\contact\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/blog/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\blog\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/guarnizo-brothers/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\guarnizo-brothers\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/ageze/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\ageze\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/caballeros/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\caballeros\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/pitalito/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\pitalito\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/santa-clara/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\santa-clara\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/familia-castro/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\familia-castro\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/villa-imperial/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\villa-imperial\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/hartmann-honey/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\hartmann-honey\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/guzman-brothers/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\guzman-brothers\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/calderon-castillo/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\calderon-castillo\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/don-mayo/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\don-mayo\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/san-jacinto/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\san-jacinto\index.html
+Content Type: text/html
+
+Uri: https://cornerstone-warm-demo.mybigcommerce.com/sitemap.php
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\sitemap.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/brands/Phil-%26-Sebastian.html
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\brands\Phil-&-Sebastian.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/brands/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\brands\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/compare
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\compare-1.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/giftcertificates.php
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\giftcertificates-1.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/sitemap.php
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\sitemap-1.html
+Content Type: text/html
+
+Uri: https://cornerstone-warm-demo.mybigcommerce.com/giftcertificates.php?action=redeem
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\giftcertificates-2.html
+Content Type: text/html
+
+Uri: https://cornerstone-warm-demo.mybigcommerce.com/giftcertificates.php?action=balance
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\giftcertificates-3.html
+Content Type: text/html
+
+Uri: https://cornerstone-warm-demo.mybigcommerce.com/login.php?action=reset_password
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\login-2.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/product_images/uploaded_images/pasabout.jpg
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\product_images\uploaded_images\pasabout.jpg
+Content Type: image/jpeg
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/blog/your-third-blog-post/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\blog\your-third-blog-post\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/blog/your-second-blog-post/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\blog\your-second-blog-post\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/blog/your-first-blog-post/
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\blog\your-first-blog-post\index.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/giftcertificates.php?action=redeem
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\giftcertificates-4.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/giftcertificates.php?action=balance
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\giftcertificates-5.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/blog/tag/Blog
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\blog\tag\Blog.html
+Content Type: text/html
+
+Uri: http://cornerstone-warm-demo.mybigcommerce.com/blog/tag/SEO
+File Name: c:\Downloaded Web Sites\cornerstone-warm-demo.mybigcommerce.com\blog\tag\SEO.html
+Content Type: text/html
+
